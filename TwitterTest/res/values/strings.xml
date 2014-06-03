@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">Login with Twitter</string>
+    <string name="welcomeText">Welcome to My First Tweet</string>
+    <string name="loading">Loading..</string>
+
+</resources>
